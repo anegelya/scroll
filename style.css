@@ -17,17 +17,17 @@
 }
 
 #scene-0 {
-    background-image: url("scene-33.png");
+    background-image: url("./src/img/scene-33.png");
 }
 
 #scene-1 {
-    background-image: url("scene-34.png");
+    background-image: url("./src/img/scene-34.png");
 }
 
 #scene-2 {
-    background-image: url("scene-35.png");
+    background-image: url("./src/img/scene-35.png");
 }
 
 #scene-3 {
-    background-image: url("scene-36.png");
+    background-image: url("./src/img/scene-36.png");
 }
