@@ -9,11 +9,12 @@
     height: 100%;
     background-repeat: no-repeat;
     background-size: cover;
-    transform: translateY(100vh);
+    transform: translateY(100%);
 }
 
 .scene img {
     position: relative;
+    left: -400px;
 }
 
 #scene-0 {
